@@ -39,5 +39,6 @@ The Convolutional Neural Network (CNN) was evaluated on training, validation, an
 ## Contributors
 
 [Faris alqahtani](https://github.com/farism9q)
+
 [Saad albadea](https://github.com/AlbadeaSaad)
 
